@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T04:06:06.031Z",
+  "generated_at": "2026-11-10T16:21:44.519Z",
   "items": {
     "problem:94": {
       "kind": "problem",
@@ -26,6 +26,19 @@
       "last_pushed_at": "2026-11-09T04:06:04.509Z",
       "language": "python",
       "lines": 51
+    },
+    "problem:1965": {
+      "kind": "problem",
+      "id": "1965",
+      "title": "Soft-NMS: Decay Overlapping Detections Instead of Deleting Them",
+      "difficulty": "medium",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/1965",
+      "path": "problems/1965-soft-nms-decay-overlapping-detections-instead-of-deleting-them",
+      "first_solved_at": "2026-11-10T16:21:43.441Z",
+      "last_pushed_at": "2026-11-10T16:21:43.441Z",
+      "language": "python",
+      "lines": 67
     }
   }
 }

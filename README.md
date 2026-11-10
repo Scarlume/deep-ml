@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**2** solved · 2 problems · 0 labs · 0 math
+**3** solved · 3 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Character-Level Tokenizer (stoi/itos/BOS)](https://www.deep-ml.com/problems/374) | easy | 2026-11-09 | [solution](problems/0374-character-level-tokenizer-stoi-itos-bos) |
+| [Soft-NMS: Decay Overlapping Detections Instead of Deleting Them](https://www.deep-ml.com/problems/1965) | medium | 2026-11-10 | [solution](problems/1965-soft-nms-decay-overlapping-detections-instead-of-deleting-them) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-11-07 | [solution](problems/0094-implement-multi-head-attention) |
 
 ---
